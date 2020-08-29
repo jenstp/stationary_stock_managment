@@ -1,0 +1,1 @@
+# stationary_stock_managment
